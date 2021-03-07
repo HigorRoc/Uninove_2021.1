@@ -5,11 +5,11 @@
 ###  Curso SI - RA 919107294 - 5° Semestre
 
 Este repositório será utilizado para compor todos códigos + links das disciplinas do 1° Semestre de 2021:
-- **Organização de Banco de Dados** | Prof. Leonardo Mantovani 
-- **Aplicações Mobile** | Prof. Edson Souza
-- **Aplicações Web** | Prof. Anderson Rocha
-- **Estrutura de Dados** | Prof. Daniel Ferreira [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados)
-- **POO Avançado** | Prof. Thiago Traue
+- **Organização de Banco de Dados** | Prof. Leonardo Mantovani [Clique aqui] 
+- **Aplicações Mobile** | Prof. Edson Souza [Clique aqui]
+- **Aplicações Web** | Prof. Anderson Rocha [Clique aqui]
+- **Estrutura de Dados** | Prof. Daniel Ferreira [Clique aqui]
+- **POO Avançado** | Prof. Thiago Traue [Clique aqui]
 
 ---
 
